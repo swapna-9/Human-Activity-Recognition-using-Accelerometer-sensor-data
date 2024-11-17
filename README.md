@@ -6,6 +6,6 @@ The project addresses the challenge of accurately recognizing human activities u
 
 This project involves analyzing accelerometer data from wearable technology to extract time series features that characterize different activities such as walking, running, climbing up, and climbing down. The Natural Visibility Graph (NVG) and Horizontal Visibility Graph (HVG) methods are applied to identify network characteristics, including average degree, network diameter, and path length, that distinguish between these activities. Additionally, permutation entropy and the complexity of the accelerometer signals are computed to capture the dynamic properties of each activity.
 
-![wearable technology](https://github.com/user-attachments/assets/0ed5e41c-82bb-4a7e-a90e-672b1403c3cc)"
+![wearable technology](https://github.com/user-attachments/assets/0ed5e41c-82bb-4a7e-a90e-672b1403c3cc)
 
 
